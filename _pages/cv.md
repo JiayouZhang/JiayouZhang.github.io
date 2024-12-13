@@ -10,6 +10,12 @@ redirect_from:
 
 {% include base_path %}
 
+Research interests
+======
+
+- Structural Biology
+- Biological Foundation Models
+
 Education
 ======
 
