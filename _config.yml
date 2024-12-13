@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Jiayou Zhang"
 description              : &description "Ph.D student at MBZUAI"
 url                      : https://jiayouzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
 repository               : "JiayouZhang/JiayouZhang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D student at MBZUAI"
   location         : "Abu Dhabi, UAE"
-  employer         :
+  employer         : "GenBio AI"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jiayou.zhang@mbzuai.ac.ae"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
