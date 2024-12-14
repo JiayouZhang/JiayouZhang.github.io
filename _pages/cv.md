@@ -72,7 +72,11 @@ Publications
 Technical Skills
 ======
 
-Python, C/C++, PyTorch, Docker, Hugging Face, AlphaFold, MMSeqs2, Jackhmmer, HHBlits, Training Large Language Models, Megatron-LM
+-    Programming Languages: Python, C/C++
+-    Machine Learning Frameworks: PyTorch, Hugging Face, Megatron-LM
+-    Bioinformatics Tools: AlphaFold, MMSeqs2, Jackhmmer, HHBlits
+-    Specialized Skills: Training Large Language Models, Protein Structure Prediction
+-    DevOps: Docker
 
 Contact Information
 ======
