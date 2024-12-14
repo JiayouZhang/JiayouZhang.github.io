@@ -13,6 +13,8 @@ redirect_from:
 Research interests
 ======
 
+Exploring machine learning methods for understanding protein structures and advancing biological AI models
+
 - Structural Biology
 - Biological Foundation Models
 
@@ -20,7 +22,8 @@ Education
 ======
 
 * **B.S. in Computer Science and Technology**, Tsinghua University, 2022  
-* **Ph.D. in Machine Learning**, MBZUAI, 2026 (expected)  
+* **Ph.D. in Machine Learning**, MBZUAI, 2026 (expected)
+  * Focus: Protein structural prediction with machine learning
 
 Work experience
 ======
@@ -43,7 +46,7 @@ Work experience
 * **Summer 2024: Visiting Researcher**  
   * CMU SAILING LAB ([Link](https://sailing-lab.github.io/))  
   * **Supervisor**: Eric Xing  
-  * **Duties**: Worked on biological foundation models (AIDO series); developed a protein structure tokenizer, published as first author at NeurIPS 2024 MLSB Workshop ([Link](https://www.biorxiv.org/content/10.1101/2024.12.02.626366v2)); trained a 16B Mixture of Experts model.  
+  * **Duties**: Worked on biological foundation models (AIDO series); developed a protein structure tokenizer, published as first author at NeurIPS 2024 MLSB Workshop ([Paper](https://www.biorxiv.org/content/10.1101/2024.12.02.626366v2) [Huggingface](https://huggingface.co/genbio-ai/AIDO.Protein2StructureToken-16B)). In this work we trained a 16B structural-informed language model which has the SOTA performance on MSA-free structure prediction.  
 
 * **2024–Present: Intern**  
   * GenBio AI ([Link](https://genbio.ai/))  
