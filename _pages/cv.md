@@ -21,8 +21,8 @@ Exploring machine learning methods for understanding protein structures and adva
 Education
 ======
 
-* **B.S. in Computer Science and Technology**, Tsinghua University, 2022  
-* **Ph.D. in Machine Learning**, MBZUAI, 2026 (expected)
+* **B.S. in Computer Science and Technology**, Tsinghua University, 2022  (Beijing, China)
+* **Ph.D. in Machine Learning**, MBZUAI, 2026 (expected)  (Abu Dhabi, UAE)
   * Focus: Protein structural prediction with machine learning
 
 Work experience
@@ -69,8 +69,13 @@ Publications
   Published in Proceedings of the AAAI Conference on Artificial Intelligence, 2023.  
   [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/26256)
 
-
-  
-<!-- Service and leadership
+Technical Skills
 ======
-* Currently signed in to 43 different slack teams -->
+
+Python, C/C++, PyTorch, Docker, Hugging Face, AlphaFold, MMSeqs2, Jackhmmer, HHBlits, Large Language Models
+
+Contact Information
+======
+
+- Email: jiayou.zhang@mbzuai.ac.ae
+- Phone: +971 (0)585358674
