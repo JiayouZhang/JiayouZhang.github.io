@@ -49,7 +49,8 @@ Work experience
   * **Duties**: Worked on biological foundation models (AIDO series); developed a protein structure tokenizer, published as first author at NeurIPS 2024 MLSB Workshop ([Paper](https://www.biorxiv.org/content/10.1101/2024.12.02.626366v2) [Huggingface](https://huggingface.co/genbio-ai/AIDO.Protein2StructureToken-16B)). In this work we trained a 16B structural-informed language model which has the SOTA performance on MSA-free structure prediction.  
 
 * **2024–Present: Intern**  
-  * GenBio AI ([Link](https://genbio.ai/))  
+  * GenBio AI ([Link](https://genbio.ai/))
+  * **Duties**: Optimizing the structure prediction models with better data pipelines.
 
 Publications
 ======
