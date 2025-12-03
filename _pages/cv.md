@@ -55,19 +55,44 @@ Work experience
 Publications
 ======
 
-* **Jiayou Zhang**, Barthelemy Meynard-Piganeau, James Gong, Xingyi Cheng, Yingtao Luo, Hugo Ly, Le Song, Eric Xing.  
-  *Balancing Locality and Reconstruction in Protein Structure Tokenizer*.  
-  Presented at NeurIPS 2024 Workshop on Machine Learning in Structural Biology (MLSB).  
-  [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.12.02.626366v2) | DOI: [10.1101/2024.12.02.626366](https://doi.org/10.1101/2024.12.02.626366)
+## Under Review (2026)
 
-* Xinyuan Wang, Chenxi Li, Zhen Wang, Fan Bai, Haotian Luo, **Jiayou Zhang**, Nebojsa Jojic, Eric P. Xing, Zhiting Hu.  
-  *PromptAgent: Strategic Planning with Language Models Enables Expert-Level Prompt Optimization*.  
-  Published in ICLR 2024. [arXiv:2310.16427](https://arxiv.org/abs/2310.16427)
+- Zou, S., **Zhang, J.**, Zhao, B., Li, H., Song, L.  
+  **Accurate RNA 3D Structure Prediction via Language Model-Augmented AlphaFold 3**  
+  *ICLR 2026 (under review)*
 
-* Hanwen Xu, **Jiayou Zhang**, Zhirui Wang, Shizhuo Zhang, Megh Bhalerao, Yucong Liu, Dawei Zhu, Sheng Wang.  
-  *GraphPrompt: Graph-Based Prompt Templates for Biomedical Synonym Prediction*.  
-  Published in Proceedings of the AAAI Conference on Artificial Intelligence, 2023.  
-  [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/26256)
+- Hu, J., **Zhang, J.**, Cui, S., Zhang, K., Chen, G.  
+  **MixAR: Mixture Autoregressive Image Generation**  
+  *CVPR 2026 (under review)*
+
+
+## 2025
+
+- **Zhang, J.**, Shen, Y., Chen, G., Song, L., Xing, E. P.  
+  **Dimensional Collapse in VQVAEs: Evidence and Remedies**  
+  *NeurIPS 2025*  
+  *PDF coming soon*
+
+
+## 2024
+
+- **Zhang, J.**, Meynard-Piganeau, B., Gong, J., Cheng, X., Luo, Y., Ly, H., Song, L., Xing, E. P.  
+  **Balancing Locality and Reconstruction in Protein Structure Tokenizer**  
+  *NeurIPS 2024 Workshop on Machine Learning in Structural Biology (MLSB)*  
+  [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2024.12.02.626366v2) • DOI: [10.1101/2024.12.02.626366](https://doi.org/10.1101/2024.12.02.626366)
+
+- Wang, X., Li, C., Wang, Z., Bai, F., Luo, H., **Zhang, J.**, Jojic, N., Xing, E. P., Hu, Z.  
+  **PromptAgent: Strategic Planning with Language Models Enables Expert-Level Prompt Optimization**  
+  *ICLR 2024*  
+  [[arXiv:2310.16427]](https://arxiv.org/abs/2310.16427)
+
+
+## 2023
+
+- Xu, H., **Zhang, J.**, Wang, Z., Zhang, S., Bhalerao, M., Liu, Y., Zhu, D., Wang, S.  
+  **GraphPrompt: Graph-Based Prompt Templates for Biomedical Synonym Prediction**  
+  *AAAI Conference on Artificial Intelligence (AAAI 2023)*  
+  [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/26256)
 
 Technical Skills
 ======
